@@ -1,9 +1,9 @@
 <template>
   <div class="wrapper">
     <!-- header -->
-    <div class="title">
+    <!-- <div class="title">
       <em @click="back" class="back"></em>轮播组件
-    </div>
+    </div> -->
     <div class="content">
         <Form :model="setting" :label-width="100">
           <FormItem label="自动切换">
